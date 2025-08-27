@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\VISUAL GRAFICO\\herramientasDeProgramacion2-2025-2\\wProyectoClinica\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{42B65522-EFD7-4B84-A104-CD0B1AD5136E}|wProyectoClinica.csproj|c:\\users\\hp\\desktop\\visual grafico\\herramientasdeprogramacion2-2025-2\\wproyectoclinica\\domain\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B65522-EFD7-4B84-A104-CD0B1AD5136E}|wProyectoClinica.csproj|solutionrelative:domain\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{42B65522-EFD7-4B84-A104-CD0B1AD5136E}|wProyectoClinica.csproj|c:\\users\\hp\\desktop\\visual grafico\\herramientasdeprogramacion2-2025-2\\wproyectoclinica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{42B65522-EFD7-4B84-A104-CD0B1AD5136E}|wProyectoClinica.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\VISUAL GRAFICO\\herramientasDeProgramacion2-2025-2\\wProyectoClinica\\domain\\model\\Person.cs",
+              "RelativeDocumentMoniker": "domain\\model\\Person.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\VISUAL GRAFICO\\herramientasDeProgramacion2-2025-2\\wProyectoClinica\\domain\\model\\Person.cs",
+              "RelativeToolTip": "domain\\model\\Person.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T04:06:54.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\VISUAL GRAFICO\\herramientasDeProgramacion2-2025-2\\wProyectoClinica\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
