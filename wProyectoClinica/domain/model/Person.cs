@@ -16,9 +16,7 @@ namespace wProyectoClinica.domain.model
         private ulong cellPhone;
         private DateTime birthday;
         private string address;
-        private string gender;
 
-        public Person() { }
         public ulong Id { get => id; set => id = value; }
         public string Name { get => name; set => name = value; }
         public string LastName { get => lastName; set => lastName = value; }
@@ -27,6 +25,5 @@ namespace wProyectoClinica.domain.model
         public ulong CellPhone { get => cellPhone; set => cellPhone = value; }
         public DateTime Birthday { get => birthday; set => birthday = value; }
         public string Address { get => address; set => address = value; }
-        public string Gender { get => gender; set => gender = value; }
     }
 }

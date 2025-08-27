@@ -3,11 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\VISUAL GRAFICO\\herramientasDeProgramacion2-2025-2\\wProyectoClinica\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{42B65522-EFD7-4B84-A104-CD0B1AD5136E}|wProyectoClinica.csproj|c:\\users\\hp\\desktop\\visual grafico\\herramientasdeprogramacion2-2025-2\\wproyectoclinica\\domain\\model\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B65522-EFD7-4B84-A104-CD0B1AD5136E}|wProyectoClinica.csproj|solutionrelative:domain\\model\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B65522-EFD7-4B84-A104-CD0B1AD5136E}|wProyectoClinica.csproj|c:\\users\\hp\\desktop\\visual grafico\\herramientasdeprogramacion2-2025-2\\wproyectoclinica\\domain\\model\\emergencycontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B65522-EFD7-4B84-A104-CD0B1AD5136E}|wProyectoClinica.csproj|solutionrelative:domain\\model\\emergencycontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B65522-EFD7-4B84-A104-CD0B1AD5136E}|wProyectoClinica.csproj|c:\\users\\hp\\desktop\\visual grafico\\herramientasdeprogramacion2-2025-2\\wproyectoclinica\\domain\\model\\medicalinsurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B65522-EFD7-4B84-A104-CD0B1AD5136E}|wProyectoClinica.csproj|solutionrelative:domain\\model\\medicalinsurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{42B65522-EFD7-4B84-A104-CD0B1AD5136E}|wProyectoClinica.csproj|c:\\users\\hp\\desktop\\visual grafico\\herramientasdeprogramacion2-2025-2\\wproyectoclinica\\domain\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42B65522-EFD7-4B84-A104-CD0B1AD5136E}|wProyectoClinica.csproj|solutionrelative:domain\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42B65522-EFD7-4B84-A104-CD0B1AD5136E}|wProyectoClinica.csproj|c:\\users\\hp\\desktop\\visual grafico\\herramientasdeprogramacion2-2025-2\\wproyectoclinica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{42B65522-EFD7-4B84-A104-CD0B1AD5136E}|wProyectoClinica.csproj|c:\\users\\hp\\desktop\\visual grafico\\herramientasdeprogramacion2-2025-2\\wproyectoclinica\\domain\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B65522-EFD7-4B84-A104-CD0B1AD5136E}|wProyectoClinica.csproj|solutionrelative:domain\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B65522-EFD7-4B84-A104-CD0B1AD5136E}|wProyectoClinica.csproj|C:\\Users\\HP\\Desktop\\VISUAL GRAFICO\\herramientasDeProgramacion2-2025-2\\wProyectoClinica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{42B65522-EFD7-4B84-A104-CD0B1AD5136E}|wProyectoClinica.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -23,27 +39,78 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\VISUAL GRAFICO\\herramientasDeProgramacion2-2025-2\\wProyectoClinica\\domain\\model\\Patient.cs",
+              "RelativeDocumentMoniker": "domain\\model\\Patient.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\VISUAL GRAFICO\\herramientasDeProgramacion2-2025-2\\wProyectoClinica\\domain\\model\\Patient.cs",
+              "RelativeToolTip": "domain\\model\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:16:04.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MedicalInsurance.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\VISUAL GRAFICO\\herramientasDeProgramacion2-2025-2\\wProyectoClinica\\domain\\model\\MedicalInsurance.cs",
+              "RelativeDocumentMoniker": "domain\\model\\MedicalInsurance.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\VISUAL GRAFICO\\herramientasDeProgramacion2-2025-2\\wProyectoClinica\\domain\\model\\MedicalInsurance.cs",
+              "RelativeToolTip": "domain\\model\\MedicalInsurance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T06:05:13.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmergencyContact.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\VISUAL GRAFICO\\herramientasDeProgramacion2-2025-2\\wProyectoClinica\\domain\\model\\EmergencyContact.cs",
+              "RelativeDocumentMoniker": "domain\\model\\EmergencyContact.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\VISUAL GRAFICO\\herramientasDeProgramacion2-2025-2\\wProyectoClinica\\domain\\model\\EmergencyContact.cs",
+              "RelativeToolTip": "domain\\model\\EmergencyContact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:18:53.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\VISUAL GRAFICO\\herramientasDeProgramacion2-2025-2\\wProyectoClinica\\domain\\model\\User.cs",
+              "RelativeDocumentMoniker": "domain\\model\\User.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\VISUAL GRAFICO\\herramientasDeProgramacion2-2025-2\\wProyectoClinica\\domain\\model\\User.cs",
+              "RelativeToolTip": "domain\\model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:42:13.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\VISUAL GRAFICO\\herramientasDeProgramacion2-2025-2\\wProyectoClinica\\domain\\model\\Person.cs",
               "RelativeDocumentMoniker": "domain\\model\\Person.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\VISUAL GRAFICO\\herramientasDeProgramacion2-2025-2\\wProyectoClinica\\domain\\model\\Person.cs",
               "RelativeToolTip": "domain\\model\\Person.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T04:06:54.692Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\VISUAL GRAFICO\\herramientasDeProgramacion2-2025-2\\wProyectoClinica\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\VISUAL GRAFICO\\herramientasDeProgramacion2-2025-2\\wProyectoClinica\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T03:35:23.828Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-08-27T03:35:23.828Z"
             },
             {
               "$type": "Bookmark",
